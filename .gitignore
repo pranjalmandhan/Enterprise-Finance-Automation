@@ -1,0 +1,18 @@
+# Ignore SQL Database files (contains personal data)
+*.db
+finance_expert.db
+finance_enterprise.db
+
+# Ignore Python temporary folders
+__pycache__/
+*.py[cod]
+
+# Ignore generated reports (Code recreates these every run)
+spending_chart.png
+Professional_Finance_Report.pdf
+
+# Ignore system logs
+system_logs.log
+
+# Ignore IDE specific settings
+.vscode/
