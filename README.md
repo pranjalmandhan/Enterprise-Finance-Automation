@@ -7,7 +7,7 @@ This project automates the lifecycle of financial data. It replaces manual sprea
 ### Technical Details & Logic
 The system is built using a modular architecture in `tracker.py`:
 
-* **Data Persistence (SQL):** Utilizes **SQLite3** to manage a relational database (`finance_expert.db`). It ensures that transaction history is structured and persistent.
+* **Data Persistence (SQL):** Utilizes **SQLite3** to manage a relational database ("D:\Finance_SQL_Automation\Professional_Finance_Report.pdf"). It ensures that transaction history is structured and persistent.
 * **Algorithmic Analysis:** Leverages **Pandas** to aggregate raw data from SQL queries, calculating category-wise spending totals for real-time insights.
 * **Visual Intelligence:** Uses **Matplotlib** to generate dynamic pie charts (`spending_chart.png`), providing a visual breakdown of expenses.
 * **Automated Documentation:** Integrates the **FPDF library** to translate database records and charts into a formatted, professional PDF Executive Report.
