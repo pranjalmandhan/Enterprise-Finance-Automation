@@ -2,7 +2,6 @@
 *.db
 finance_expert.db
 finance_enterprise.db
-"D:\Finance_SQL_Automation\Professional_Finance_Report.pdf"
 
 # Ignore Python temporary folders
 __pycache__/
@@ -18,4 +17,5 @@ system_logs.log
 # Ignore IDE specific settings
 
 .vscode/
+
 
