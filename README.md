@@ -18,5 +18,7 @@ The system is built using a modular architecture in `tracker.py`:
 * **Data Science:** Pandas, Matplotlib
 * **Reporting:** FPDF
 
-### 📊 Project Output
-<img width="640" height="480" alt="analytics_chart" src="https://github.com/user-attachments/assets/134845de-7532-49d9-96da-2b02d6b41ae1" />
+
+###  Project Output
+[Professional_Finance_Report.pdf](https://github.com/user-attachments/files/24824825/Professional_Finance_Report.pdf)
+
