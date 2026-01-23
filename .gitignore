@@ -15,4 +15,5 @@ Professional_Finance_Report.pdf
 system_logs.log
 
 # Ignore IDE specific settings
+
 .vscode/
